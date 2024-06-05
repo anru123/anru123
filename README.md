@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🥅 2022 Goals: Complete my **BSc Computer Science degree**
+- 🥅 2024 Goals: Complete my **BSc Computer Science degree**
 
 - 🌱 I’m currently learning **Cybersecurity, AI**
 
