@@ -7,13 +7,13 @@
 
 - 🥅 2024 Goals: Complete my **BSc Computer Science degree**
 
-- 🌱 I’m currently learning **Cybersecurity, AI**
+- 🌱 I’m currently learning **Data Analytics, Business Intelligence, Reac**
 
 - 👯 I’m looking to collaborate on **Anything**
 
 - ⚡ Fun fact: I love **learning new things** and **solving problems**
 
-- 📖 Interests: **Cybersecurity, Software Development, Cryptocurrency, Finance, Astronomy and Physics**
+- 📖 Interests: **Cybersecurity, Software Development, AI, Cryptocurrency, Finance, Astronomy and Physics**
 
 ## Connect with me:
 
